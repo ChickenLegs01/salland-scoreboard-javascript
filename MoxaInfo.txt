@@ -1,0 +1,7 @@
+{ comName: 'COM2',
+  manufacturer: 'Moxa Inc.',
+  serialNumber: undefined,
+  pnpId: 'MXUPORT\\COM\\6&44680C0&0&0000',
+  locationId: undefined,
+  vendorId: undefined,
+  productId: undefined }

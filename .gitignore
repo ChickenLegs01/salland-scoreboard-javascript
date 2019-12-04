@@ -1,0 +1,13 @@
+/bin/
+/build/
+/dist/
+/ecbuild/
+/.settings
+/target/
+/lib/
+/data/
+summit.connection.*
+.classpath
+.project 
+info.txt
+*personal.properties
